@@ -3,9 +3,7 @@
 Built with **Gradio**, powered by **Machine Learning**, & optimized for **business intelligence**.
 ---
 
-🚀 **Live Demo (Hugging Face Space)**  
-Try the fully interactive AI Business Command Center here:  
-[![HuggingFace Space](https://huggingface.co/spaces/RayanAIX/superstore-ai-dashboard)]
+🚀 **Live Demo:** https://huggingface.co/spaces/RayanAIX/superstore-ai-dashboard
 
 ---
 
