@@ -2,11 +2,12 @@
 ### The Ultimate AI Dashboard for Analytics, Predictions, Insights & Automation  
 Built with **Gradio**, powered by **Machine Learning**, & optimized for **business intelligence**.
 ---
+
 🚀 **Live Demo (Hugging Face Space)**  
 Try the fully interactive AI Business Command Center here:  
 [![HuggingFace Space](https://huggingface.co/spaces/RayanAIX/superstore-ai-dashboard)]
 
----https://huggingface.co/spaces/RayanAIX/superstore-ai-dashboard
+---
 
 ## 🚀 Overview  
 The **AI-Powered Business Command Center** transforms your *Superstore* dataset into a **smart analytics ecosystem**, giving businesses the power to:
